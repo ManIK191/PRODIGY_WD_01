@@ -19,13 +19,3 @@ Featured Deals: Displaying a selection of unique car deals with images and descr
 Footer Section: Providing information about VeloZephyr, including contact details and social media links.
 
 Burger Menu: A responsive burger menu for smaller screens, allowing easy navigation on mobile devices.
-
-Contributing
-If you'd like to contribute to this project, you can:
-
-Fork the repository
-Create a new branch (git checkout -b feature)
-Make your changes
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature)
-Create a pull request
