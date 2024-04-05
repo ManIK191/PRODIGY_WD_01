@@ -1,14 +1,14 @@
-##Overview
+## Overview
 This website is designed to provide an interactive and visually appealing platform for browsing and purchasing jerseys. It utilizes HTML, CSS, and JavaScript to deliver a seamless user experience across various devices.
 
-##Technologies Used
+## Technologies Used
 
 HTML
 CSS
 JavaScript
 Swiper.js (for the image carousel)
 
-##Features
+## Features
 
 Responsive Design: The landing page is designed to be responsive, adapting to different screen sizes and devices.
 
