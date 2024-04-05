@@ -1,10 +1,12 @@
 ##Overview
-
-This project is a landing page developed as part of my Web Development internship with Prodigy InfoTech. It serves as a visually appealing introduction to the VeloZephyr brand, showcasing a unique car collection.
+This website is designed to provide an interactive and visually appealing platform for browsing and purchasing jerseys. It utilizes HTML, CSS, and JavaScript to deliver a seamless user experience across various devices.
 
 ##Technologies Used
 
-HTML CSS JavaScript Swiper.js (for the image carousel)
+HTML
+CSS
+JavaScript
+Swiper.js (for the image carousel)
 
 ##Features
 
@@ -19,3 +21,14 @@ Featured Deals: Displaying a selection of unique car deals with images and descr
 Footer Section: Providing information about VeloZephyr, including contact details and social media links.
 
 Burger Menu: A responsive burger menu for smaller screens, allowing easy navigation on mobile devices.
+
+## Contributing
+
+If you'd like to contribute to this project, you can:
+
+- Fork the repository
+- Create a new branch (`git checkout -b feature`)
+- Make your changes
+- Commit your changes (`git commit -am 'Add new feature'`)
+- Push to the branch (`git push origin feature`)
+- Create a pull request
